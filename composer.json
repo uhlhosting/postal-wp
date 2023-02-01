@@ -1,0 +1,5 @@
+{
+    "require": {
+        "atellitech/postal": "^1.0"
+    }
+}
